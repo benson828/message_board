@@ -1,0 +1,2 @@
+# Laravel + NuxtJS
+Board
